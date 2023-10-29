@@ -4,7 +4,7 @@
 
 My CV
 
-Languages and Tools
+## Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-d00?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-1976d2?style=for-the-badge&logo=CSS3)
 ![DevTools](https://img.shields.io/badge/-DevTools-fe2?style=for-the-badge&logo=google-chrome)
