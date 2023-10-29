@@ -9,5 +9,5 @@ My CV
 ![CSS](https://img.shields.io/badge/-CSS-1976d2?style=for-the-badge&logo=CSS3)
 ![DevTools](https://img.shields.io/badge/-DevTools-fe2?style=for-the-badge&logo=google-chrome)
 
-
-Follow Me
+## Follow Me
+[![Telegram](https://img.shields.io/badge/-Telegram-1976d2?style=for-the-badge&logo=Telegram)](https://t.me/RamKoya)
