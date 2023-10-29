@@ -2,7 +2,8 @@
 
 ## Я начинающий специалист QA.
 
-My CV
+## My CV
+https://github.com/Ramil-1223/resume.git
 
 ## Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5)
