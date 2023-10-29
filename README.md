@@ -5,9 +5,11 @@
 My CV
 
 ## Languages and Tools
-![HTML](https://img.shields.io/badge/-HTML-d00?style=for-the-badge&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-1976d2?style=for-the-badge&logo=CSS3)
-![DevTools](https://img.shields.io/badge/-DevTools-fe2?style=for-the-badge&logo=google-chrome)
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3)
+![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=google-chrome)
+![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman)
+
 
 ## Follow Me
-[![Telegram](https://img.shields.io/badge/-Telegram-1976d2?style=for-the-badge&logo=Telegram)](https://t.me/RamKoya)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/RamKoya)
