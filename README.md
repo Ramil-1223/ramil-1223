@@ -2,7 +2,7 @@
 
 # ![Alt text](image-6.png) Обо мне:
 
-### Я начинающий специалист QA:
+### Я начинающий специалист QA.
 
 # ![Alt text](image-3.png) Моё резюме:
 
@@ -17,15 +17,15 @@
 
 # ![Alt text](image-2.png) Тестовая документация:
 
-![Alt text](image-15.png) Чек-лист: https://docs.google.com/spreadsheets/d/1jv9wNydCQTN7B3gzPzXiu3Hn5A5qAFWhrDVecUM40HQ/edit?usp=sharing
+ - Чек-лист: https://docs.google.com/spreadsheets/d/1jv9wNydCQTN7B3gzPzXiu3Hn5A5qAFWhrDVecUM40HQ/edit?usp=sharing
 
-![Тест-кейс](image-11.png) Тест-кейс: https://docs.google.com/spreadsheets/d/1Yn3R21b5yYu9Y8ur8HtJ1Yebn1yLzhNb-jSg7_shyQ0/edit?usp=sharing
+- ![Тест-кейс](image-11.png) Тест-кейс: https://docs.google.com/spreadsheets/d/1Yn3R21b5yYu9Y8ur8HtJ1Yebn1yLzhNb-jSg7_shyQ0/edit?usp=sharing
 
-![ Баг-репорт](image-12.png) Баг-репорт: https://docs.google.com/spreadsheets/d/1th33LVqKS_OaD211fF1oNaYdOQOYbu-qGVYOCNTJzhc/edit?usp=sharing
+- ![ Баг-репорт](image-12.png) Баг-репорт: https://docs.google.com/spreadsheets/d/1th33LVqKS_OaD211fF1oNaYdOQOYbu-qGVYOCNTJzhc/edit?usp=sharing
 
 # ![Техники](image-17.png) Техники тест-дизайна:
 
-![Alt text](image-21.png) Pairwise testing: https://docs.google.com/spreadsheets/d/13gLtHOY8_FpIhJC5bUEx05-v8sqLVpC04n6jQxFqTMc/edit?usp=sharing
+- ![Alt text](image-21.png) Pairwise testing: https://docs.google.com/spreadsheets/d/13gLtHOY8_FpIhJC5bUEx05-v8sqLVpC04n6jQxFqTMc/edit?usp=sharing
 
 # ![Соц](image-5.png) Связь со мной:
 
